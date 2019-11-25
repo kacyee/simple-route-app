@@ -1,0 +1,20 @@
+@import '../../assets/variables.scss';
+.about{
+    color:#828282;
+    h1, &__locationIcon{
+        color:#000;
+    }
+    .location{
+        font-size:18px;
+    }
+    p{
+        font-weight:600;
+    }
+    blockquote{
+        max-width:60%;
+        border-left:5px solid $light-green;
+        font-weight:400;
+        padding-left:1.875rem;
+        margin:2rem;
+    }
+}
