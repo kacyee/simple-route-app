@@ -1,0 +1,20 @@
+.gallery{
+    display:flex;
+    flex-wrap:wrap;
+    margin:2rem 0;
+    justify-content:space-between;
+    .singleImage{
+        flex:0 0 32%;
+        max-height:250px;
+        overflow:hidden;
+        margin:.975rem 0;
+        img{
+            width:100%;
+            overflow:hidden;
+            transition:.5s ease;
+            &:hover{
+                filter:grayscale(80%);
+            }
+        }
+    }
+}
