@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d2c75477b997065eb7e0ce60fa21e14f",
+    "revision": "46091d9bd986c3c6811ccc81b8bf80d2",
     "url": "/simple-route-app/index.html"
   },
   {
-    "revision": "beabb1be7be45d413525",
+    "revision": "4a19635e8bf2dba5a732",
     "url": "/simple-route-app/static/css/main.1c5ea208.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/simple-route-app/static/js/2.f9b300f9.chunk.js"
   },
   {
-    "revision": "beabb1be7be45d413525",
-    "url": "/simple-route-app/static/js/main.4b84c6f1.chunk.js"
+    "revision": "4a19635e8bf2dba5a732",
+    "url": "/simple-route-app/static/js/main.0f3c80f1.chunk.js"
   },
   {
     "revision": "f086d2ab31b07f44bd66",
