@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/simple-route-app/static/css/main.1c5ea208.chunk.css",
-    "main.js": "/simple-route-app/static/js/main.0cdac2d4.chunk.js",
-    "main.js.map": "/simple-route-app/static/js/main.0cdac2d4.chunk.js.map",
+    "main.js": "/simple-route-app/static/js/main.acc6c8a4.chunk.js",
+    "main.js.map": "/simple-route-app/static/js/main.acc6c8a4.chunk.js.map",
     "runtime-main.js": "/simple-route-app/static/js/runtime-main.08a4d793.js",
     "runtime-main.js.map": "/simple-route-app/static/js/runtime-main.08a4d793.js.map",
     "static/js/2.f9b300f9.chunk.js": "/simple-route-app/static/js/2.f9b300f9.chunk.js",
     "static/js/2.f9b300f9.chunk.js.map": "/simple-route-app/static/js/2.f9b300f9.chunk.js.map",
     "index.html": "/simple-route-app/index.html",
-    "precache-manifest.5a4d887f94ac99c27f92b292feb47914.js": "/simple-route-app/precache-manifest.5a4d887f94ac99c27f92b292feb47914.js",
+    "precache-manifest.f99f0283af04d07fab47c602d7bdf542.js": "/simple-route-app/precache-manifest.f99f0283af04d07fab47c602d7bdf542.js",
     "service-worker.js": "/simple-route-app/service-worker.js",
     "static/css/main.1c5ea208.chunk.css.map": "/simple-route-app/static/css/main.1c5ea208.chunk.css.map",
     "static/media/avatar.jpg": "/simple-route-app/static/media/avatar.fdea746e.jpg",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.08a4d793.js",
     "static/js/2.f9b300f9.chunk.js",
     "static/css/main.1c5ea208.chunk.css",
-    "static/js/main.0cdac2d4.chunk.js"
+    "static/js/main.acc6c8a4.chunk.js"
   ]
 }
